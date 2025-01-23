@@ -1,10 +1,8 @@
 # Software Developer
+Technical Skills: C#, HTML, JavaScript
 
 ### Education
-Multimedia Software Development, BSc
-
-### Work Experience
-test1
+B.Sc. (Hons) in Multimedia Software Development with First Class Honours
 
 ### Projects
 test2
